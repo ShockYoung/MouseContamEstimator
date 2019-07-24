@@ -4,7 +4,7 @@
 
   **MouseContamEstimator** is a simple python script for end users to estimate mouse contamination level of their WES samples.
   Based on the HAMAlist, it calculates the median of VAFs for all HAMAs in your WES data.<br>
-  ###### The only library dependency for this script is NumPy.<br>
+  The only library dependency for this script is `NumPy`.<br>
   
   [**Download current version**](https://github.com/ShockYoung/MouseContamEstimator/releases/latest)
   
