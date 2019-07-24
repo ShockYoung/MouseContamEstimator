@@ -6,10 +6,7 @@
   Based on the HAMAlist, it calculates the median of VAFs for all HAMAs in your WES data.<br>
   The only library dependency is numpy.<br>
   
-  To install `MouseContamEstimator`,
-  ```
-  git clone https://github.com/ShockYoung/MouseContamEstimator.git
-  ```
+  [**Download current version**](https://github.com/ShockYoung/MouseContamEstimator/releases/latest)
   
 ## Usage
 
